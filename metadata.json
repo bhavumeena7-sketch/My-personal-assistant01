@@ -1,0 +1,7 @@
+{
+  "name": "Ultra-AI Content Automator",
+  "description": "A high-performance AI dashboard for automated content creation, utilizing Gemini for metadata, image generation, and neural text-to-speech.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
